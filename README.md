@@ -1,4 +1,6 @@
 # XYZ-Ads-Airing-Analysis
+Results Link: https://drive.google.com/file/d/1iglO0LOIiJ-W4JPsBNJvCJbtv4e_CZ2E/view?usp=share_link
+
 Project Description: 
 we are providing you with a dataset having different TV Airing Brands, their product, their category. Dataset includes the network through which Ads are airing,  types of network like Cable/ Broadcast and the show name also on which Ads got aired. You can also see the data of Dayparts, Time zone and the time & date at which Ads got aired. IT also includes other data like Pod Position (the lesser the valuable), duration for which Ads aired on screen, Equivalent sales &, total amount spent on the Ads aired. 
 
